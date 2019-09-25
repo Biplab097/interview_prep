@@ -1,5 +1,4 @@
 //https://github.com/Biplab097/interview_prep
-//code
 #include<iostream>
 #include<vector>
 using namespace std;
